@@ -44,4 +44,4 @@
 - Buyers/sellers of FB logs
 - For personal, high-quality processing of material
 
-## Contact : Click [Here](https://t.me/@hackccv) or [Here](https://t.me/fbbrutecheck)
+## Contact : Click [Here](https://t.me/hackccv) or [Here](https://t.me/fbbrutecheck)
