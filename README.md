@@ -44,6 +44,4 @@
 - Buyers/sellers of FB logs
 - For personal, high-quality processing of material
 
-Personal connection:
-💵PRICE: $250 (Lifetime License)
-👤CONTACT: @hackccv
+## Contact : Click [Here](https://t.me/@hackccv) or [Here](https://t.me/fbbrutecheck)
